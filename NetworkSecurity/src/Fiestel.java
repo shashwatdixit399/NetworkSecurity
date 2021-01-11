@@ -235,5 +235,6 @@ class Fiestel {
 		System.out.println( 
 			"\nPlain Text: "
 			+ text.toUpperCase()); 
+		System;
 	} 
 }  
